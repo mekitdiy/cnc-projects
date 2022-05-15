@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "3mm_Endmill_1flutes",
+  "name": "3mm_Endmill_1flutes003",
   "shape": "endmill.fcstd",
   "parameter": {
     "Chipload": "0.000 mm",
