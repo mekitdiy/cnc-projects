@@ -7,6 +7,10 @@
     {
       "nr": 2,
       "path": "25degree_Vbit.fctb"
+    },
+    {
+      "nr": 3,
+      "path": "3mm_Endmill_1flutes.fctb"
     }
   ],
   "version": 1
