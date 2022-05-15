@@ -1,0 +1,13 @@
+{
+  "tools": [
+    {
+      "nr": 1,
+      "path": "3mm_Endmill_2flutes.fctb"
+    },
+    {
+      "nr": 2,
+      "path": "25degree_Vbit.fctb"
+    }
+  ],
+  "version": 1
+}

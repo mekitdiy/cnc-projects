@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "name": "3mm_Endmill_2flutes",
+  "shape": "endmill.fcstd",
+  "parameter": {
+    "Chipload": "0.000 mm",
+    "CuttingEdgeHeight": "15.000 mm",
+    "Diameter": "3.175 mm",
+    "Flutes": "2",
+    "Length": "38.000 mm",
+    "Material": "HSS",
+    "ShankDiameter": "3.175 mm"
+  },
+  "attribute": {}
+}

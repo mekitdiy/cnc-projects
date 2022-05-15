@@ -1,0 +1,66 @@
+{
+  "Fixtures": [
+    {
+      "G54": true
+    }
+  ],
+  "OrderOutputBy": "Fixture",
+  "Post": "grbl",
+  "PostArgs": "",
+  "SetupSheet": {
+    "HorizRapid": "650.000 mm/min",
+    "VertRapid": "250.000 mm/min"
+  },
+  "SplitOutput": false,
+  "Stock": {
+    "create": "FromBase",
+    "version": 1,
+    "xneg": "1.0 mm",
+    "xpos": "1.0 mm",
+    "yneg": "1.0 mm",
+    "ypos": "1.0 mm",
+    "zneg": "1.1 mm",
+    "zpos": "0.0 mm"
+  },
+  "Tolerance": "0.01",
+  "ToolController": [
+    {
+      "dir": "Forward",
+      "hfeed": "10.833333333333334 mm/s",
+      "hrapid": "10.833333333333334 mm/s",
+      "label": "3mm_Endmill_2flutes002",
+      "name": "_mm_Endmill_2flutes001",
+      "nr": 2,
+      "speed": 12000.0,
+      "tool": {
+        "attribute": {},
+        "name": "3mm_Endmill_2flutes001",
+        "parameter": {
+          "Chipload": "0.000 mm",
+          "CuttingEdgeHeight": "15.000 mm",
+          "Diameter": "3.175 mm",
+          "Flutes": "2",
+          "Length": "38.000 mm",
+          "Material": "HSS",
+          "ShankDiameter": "3.175 mm"
+        },
+        "shape": "endmill.fcstd",
+        "version": 2
+      },
+      "version": 1,
+      "vfeed": "4.166666666666667 mm/s",
+      "vrapid": "4.166666666666667 mm/s",
+      "xengine": [
+        {
+          "expr": "${SetupSheet}.HorizRapid",
+          "prop": "HorizRapid"
+        },
+        {
+          "expr": "${SetupSheet}.VertRapid",
+          "prop": "VertRapid"
+        }
+      ]
+    }
+  ],
+  "Version": 1
+}

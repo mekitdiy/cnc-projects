@@ -12,6 +12,10 @@ Those are values we used base for the CNC-3018 base on our reseachs.
 
 # Tools
 
+The freecad tools library in included in this project [here](.resources/freecad_bits_library/bits_library.fctl) as well a the bits configuration themself. So you should be ready to use [freecad path workbench](https://wiki.freecadweb.org/Path_Workbench).
+
+You can find below the details all the setups Included in the library.
+
 ## 3mm - End mill - 2 flutes
 
 * Shape
