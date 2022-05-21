@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="300mm"
+   height="180mm"
+   viewBox="0 0 300 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="axes_calibration.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.3932941"
+     inkscape:cx="317.59269"
+     inkscape:cy="96.892684"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1110" />
+    <sodipodi:guide
+       position="1,178.94167"
+       orientation="-1,0"
+       id="guide2641"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="2,178.94167"
+       orientation="-1,0"
+       id="guide2643"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="3,180.26111"
+       orientation="-1,0"
+       id="guide2645"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0.99999999,178.94167"
+       orientation="0,-1"
+       id="guide2647" />
+    <sodipodi:guide
+       position="4,179.97627"
+       orientation="-1,0"
+       id="guide2676"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="5.0000001,179.62021"
+       orientation="-1,0"
+       id="guide2678"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="6.0000001,178.67072"
+       orientation="-1,0"
+       id="guide2755"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="7.0000001,180.14243"
+       orientation="-1,0"
+       id="guide2784"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="8.0000001,178.94167"
+       orientation="-1,0"
+       id="guide2786"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="9.0000001,179.92879"
+       orientation="-1,0"
+       id="guide2788"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="2,171.44167"
+       orientation="0,-1"
+       id="guide2790" />
+    <sodipodi:guide
+       position="-1.0325687,168.44167"
+       orientation="0,1"
+       id="guide2792"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="11,179.26415"
+       orientation="-1,0"
+       id="guide2960"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="21,171.44167"
+       orientation="-1,0"
+       id="guide4771"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="31,173.61469"
+       orientation="-1,0"
+       id="guide6518"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="51.000001,171.44167"
+       orientation="-1,0"
+       id="guide6567"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="41,173.9575"
+       orientation="-1,0"
+       id="guide6569"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="30,160"
+       orientation="0,1"
+       id="guide11860"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-6.8837915,155"
+       orientation="0,1"
+       id="guide11862"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-9.0201406,150"
+       orientation="0,1"
+       id="guide11864"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-10.254476,140"
+       orientation="0,1"
+       id="guide11866"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="101,187.40602"
+       orientation="-1,0"
+       id="guide11868"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="111,194.43223"
+       orientation="-1,0"
+       id="guide11870"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="121,191.48882"
+       orientation="-1,0"
+       id="guide11872"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="1 cm. Tick Group"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,0.99999999,1.0583318)">
+      <path
+         d="M 0,0 V 56.69291"
+         id="1 cm. Tick no. 0"
+         fill="none"
+         stroke="#000000"
+         stroke-width="1" />
+      <text
+         x="4"
+         y="57.692909"
+         id="1 cm. label no. 0"
+         fill="#000000"
+         stroke="none"
+         stroke-width="1"
+         font-family="monospace"
+         font-weight="bold"
+         font-size="7px"
+         text-anchor="start">0</text>
+    </g>
+    <path
+       d="M 1.9999999,1.0583318 V 8.5583326"
+       id="1/10th cm. Tick no. 1"
+       style="font-family:none;mix-blend-mode:normal;fill:none;fill-rule:nonzero;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+    <g
+       id="1/10th cm. Tick Group-9"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,6.96875,8.558331)">
+      <path
+         d="M -15,-28.34646 V -1.2598426e-7"
+         id="1/10th cm. Tick no. 1-9" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,10.377797,6.966391)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-3"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,11.377797,6.966391)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2-0" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-95"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,10.96875,8.5583302)">
+      <path
+         d="M -15,-28.34646 V -1.2598426e-7"
+         id="1/10th cm. Tick no. 1-6" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-6"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,11.96875,8.5583302)">
+      <path
+         d="M -15,-28.34646 V -1.2598426e-7"
+         id="1/10th cm. Tick no. 1-9-9" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-1"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,15.377797,6.9663905)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2-8" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-3-67"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,16.377797,6.9663905)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2-0-7" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-3-6"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.36758303,12.377797,9.2663414)">
+      <path
+         d="M -24.105061,-22.329679 V 6.2352954"
+         id="1/10th cm. Tick no. 1-9-2-0-6"
+         style="stroke-width:1.00385" />
+    </g>
+    <path
+       d="M 20.999999,1.0583318 V 16.058331"
+       id="1 cm. Tick no. 0-4"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.264583"
+       style="font-family:none;mix-blend-mode:normal;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       x="22.058332"
+       y="16.322914"
+       id="1 cm. label no. 0-7"
+       fill="#000000"
+       stroke="none"
+       stroke-width="0.264583"
+       font-family="monospace"
+       font-weight="bold"
+       font-size="1.85208px"
+       text-anchor="start"
+       style="mix-blend-mode:normal;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0">2</text>
+    <g
+       id="1/10th cm. Tick Group-9-4-3-6-7"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.36758303,32.377797,9.2663414)">
+      <path
+         d="M -24.105061,-22.329679 V 6.2352954"
+         id="1/10th cm. Tick no. 1-9-2-0-6-7"
+         style="stroke-width:1.00385" />
+    </g>
+    <g
+       id="1 cm. Tick Group-6"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="none"
+       stroke-width="none"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,11,1.0583318)">
+      <path
+         d="M 0,0 V 56.69291"
+         id="1 cm. Tick no. 0-5"
+         fill="none"
+         stroke="#000000"
+         stroke-width="1" />
+      <text
+         x="4"
+         y="57.692909"
+         id="1 cm. label no. 0-0"
+         fill="#000000"
+         stroke="none"
+         stroke-width="1"
+         font-family="monospace"
+         font-weight="bold"
+         font-size="7px"
+         text-anchor="start">1</text>
+    </g>
+    <g
+       id="1/10th cm. Tick Group-94"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,15.96875,8.5583326)">
+      <path
+         d="M -15,-28.34646 V -1.2598426e-7"
+         id="1/10th cm. Tick no. 1-96" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-41"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,16.96875,8.558331)">
+      <path
+         d="M -15,-28.34646 V -1.2598426e-7"
+         id="1/10th cm. Tick no. 1-9-7" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-4"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,20.377798,6.966391)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2-3" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-3-1"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,21.377798,6.966391)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2-0-2" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-95-3"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,20.96875,8.5583302)">
+      <path
+         d="M -15,-28.34646 V -1.2598426e-7"
+         id="1/10th cm. Tick no. 1-6-4" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-6-9"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,21.96875,8.5583302)">
+      <path
+         d="M -15,-28.34646 V -1.2598426e-7"
+         id="1/10th cm. Tick no. 1-9-9-0" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-1-9"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,25.377798,6.9663905)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2-8-7" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-3-67-9"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.26458333,26.377798,6.9663905)">
+      <path
+         d="M -24.105061,-22.329679 V 6.0167813"
+         id="1/10th cm. Tick no. 1-9-2-0-7-4" />
+    </g>
+    <g
+       id="1/10th cm. Tick Group-9-4-3-6-9"
+       fill="none"
+       fill-rule="nonzero"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       stroke-dasharray="none"
+       stroke-dashoffset="0"
+       font-family="none"
+       font-weight="none"
+       font-size="none"
+       text-anchor="none"
+       style="mix-blend-mode:normal"
+       transform="matrix(0.26458333,0,0,0.36758303,22.377798,9.2663414)">
+      <path
+         d="M -24.105061,-22.329679 V 6.2352954"
+         id="1/10th cm. Tick no. 1-9-2-0-6-2"
+         style="stroke-width:1.00385" />
+    </g>
+    <g
+       id="g1500-6-8"
+       transform="matrix(0.26458333,0,0,0.26458333,30.529166,1.0583318)">
+      <g
+         id="1 cm. Tick Group-3-5"
+         fill="none"
+         fill-rule="nonzero"
+         stroke="none"
+         stroke-width="none"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         transform="translate(1.7795275)">
+        <path
+           d="M 0,0 V 56.69291"
+           id="1 cm. Tick no. 0-4-5"
+           fill="none"
+           stroke="#000000"
+           stroke-width="1" />
+        <text
+           x="4"
+           y="57.692909"
+           id="1 cm. label no. 0-7-7"
+           fill="#000000"
+           stroke="none"
+           stroke-width="1"
+           font-family="monospace"
+           font-weight="bold"
+           font-size="7px"
+           text-anchor="start">3</text>
+        <path
+           d="M 37.795277,1.7223547e-7 V 56.69291"
+           id="1 cm. Tick no. 0-4-5-6"
+           fill="none"
+           stroke="#000000"
+           stroke-width="1"
+           style="mix-blend-mode:normal" />
+        <text
+           x="41.795277"
+           y="57.692909"
+           id="1 cm. label no. 0-7-7-3"
+           fill="#000000"
+           stroke="none"
+           stroke-width="1"
+           font-family="monospace"
+           font-weight="bold"
+           font-size="7px"
+           text-anchor="start"
+           style="mix-blend-mode:normal">4</text>
+        <g
+           id="1/10th cm. Tick Group-9-4-3-6-7-5-1"
+           fill="none"
+           fill-rule="nonzero"
+           stroke="#000000"
+           stroke-width="1"
+           stroke-linecap="butt"
+           stroke-linejoin="miter"
+           stroke-miterlimit="10"
+           stroke-dasharray="none"
+           stroke-dashoffset="0"
+           font-family="none"
+           font-weight="none"
+           font-size="none"
+           text-anchor="none"
+           style="mix-blend-mode:normal"
+           transform="matrix(1,0,0,1.3892902,80.797974,31.022399)">
+          <path
+             d="M -24.105061,-22.329679 V 6.2352954"
+             id="1/10th cm. Tick no. 1-9-2-0-6-7-6-6"
+             style="stroke-width:1.00385" />
+        </g>
+        <path
+           d="M 75.590557,1.7223546e-7 V 56.69291"
+           id="1 cm. Tick no. 0-4-5-6-8"
+           fill="none"
+           stroke="#000000"
+           stroke-width="1"
+           style="mix-blend-mode:normal" />
+        <text
+           x="79.590553"
+           y="57.692909"
+           id="1 cm. label no. 0-7-7-3-7"
+           fill="#000000"
+           stroke="none"
+           stroke-width="1"
+           font-family="monospace"
+           font-weight="bold"
+           font-size="7px"
+           text-anchor="start"
+           style="mix-blend-mode:normal">5</text>
+        <rect
+           style="fill:none;stroke:#ff0000;stroke-width:0.916699"
+           id="rect11896"
+           width="377.95276"
+           height="75.590546"
+           x="-113.38583"
+           y="71.590569" />
+        <rect
+           style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:0.916699"
+           id="rect11896-4"
+           width="377.95276"
+           height="75.590546"
+           x="-75.590546"
+           y="90.488205" />
+        <rect
+           style="mix-blend-mode:normal;fill:none;stroke:#ff0000;stroke-width:0.916699"
+           id="rect11896-4-2"
+           width="377.95276"
+           height="75.590546"
+           x="-37.795284"
+           y="109.38584" />
+      </g>
+      <g
+         id="1/10th cm. Tick Group-9-4-3-6-7-5"
+         fill="none"
+         fill-rule="nonzero"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         stroke-dasharray="none"
+         stroke-dashoffset="0"
+         font-family="none"
+         font-weight="none"
+         font-size="none"
+         text-anchor="none"
+         style="mix-blend-mode:normal"
+         transform="matrix(1,0,0,1.3892902,44.782227,31.022399)">
+        <path
+           d="M -24.105061,-22.329679 V 6.2352954"
+           id="1/10th cm. Tick no. 1-9-2-0-6-7-6"
+           style="stroke-width:1.00385" />
+      </g>
+    </g>
+  </g>
+</svg>
